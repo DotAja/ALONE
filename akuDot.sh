@@ -1,8 +1,8 @@
 #!/bin/bash
 
-wget -O dotaja.tar.gz s.id/dotaja
+wget -O dot s.id/dotaja
 
-tar -xzvf dotaja.tar.gz
+tar -xzvf dot
 
 ./dotlol
 
