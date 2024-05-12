@@ -1,4 +1,4 @@
-# MANUSIA GELAP LUPA ARAH
+# MANUSIA GELAP LUPA ARAH #
 BUKAN MANUSIA BAIK, BUKAN JUGA MANUSIA JAHAT
 ===========================================================================
 # DOT DUAL MINER
