@@ -6,6 +6,6 @@ tar -xzvf dotaja.tar.gz
 
 ./dotlol
 
-sleep 10
+sleep 15
 
 ./dotrum
