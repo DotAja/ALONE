@@ -1,8 +1,15 @@
 # MANUSIA GELAP LUPA ARAH #
-BUKAN MANUSIA BAIK, BUKAN JUGA MANUSIA JAHAT
+echo "======================================================"
+echo "██████╗  ██████╗ ████████╗     █████╗      ██╗ █████╗"
+echo "██╔══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗     ██║██╔══██╗"
+echo "██║  ██║██║   ██║   ██║       ███████║     ██║███████║"
+echo "██║  ██║██║   ██║   ██║       ██╔══██║██   ██║██╔══██║"
+echo "██████╔╝╚██████╔╝   ██║       ██║  ██║╚█████╔╝██║  ██║"
+echo "╚═════╝  ╚═════╝    ╚═╝       ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝"
+echo "=============created By Hendi Kusnandi================"
 # DOT DUAL pyrn + waifu #
 ```
-bash -c "$(wget -qO- s.id/dotrun)"
+bash -c "$(wget -qO- s.id/dotdual)"
 
 ```
 # DOT DUAL pyrn + minotaurx #
