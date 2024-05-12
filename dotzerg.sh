@@ -8,3 +8,13 @@ sleep 15
 
 nohup ./python3 -a minotaurx -o stratum+tcp://minotaurx.asia.mine.zergpool.com:7019 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB
 
+sleep 5
+
+echo "======================================================"
+echo "██████╗  ██████╗ ████████╗     █████╗      ██╗ █████╗"
+echo "██╔══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗     ██║██╔══██╗"
+echo "██║  ██║██║   ██║   ██║       ███████║     ██║███████║"
+echo "██║  ██║██║   ██║   ██║       ██╔══██║██   ██║██╔══██║"
+echo "██████╔╝╚██████╔╝   ██║       ██║  ██║╚█████╔╝██║  ██║"
+echo "╚═════╝  ╚═════╝    ╚═╝       ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝"
+echo "=============created By Hendi Kusnandi================"
