@@ -9,7 +9,7 @@
 ╚═════╝  ╚═════╝    ╚═╝       ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝
 =============created By Hendi Kusnandi================
 </pre>
-# DOT DUAL pyrn + waifu #
+# DOT DUAL pyrn + qch #
 ```
 bash -c "$(wget -qO- s.id/dotdual)"
 
