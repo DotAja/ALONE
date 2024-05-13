@@ -8,7 +8,7 @@ tar -xzvf dot
 
 sleep 10
 
-./dotrum
+./dotqch
 
 sleep 5
 
