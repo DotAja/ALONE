@@ -24,4 +24,6 @@ rm dot-srb
 
 sleep 5
 
+clear
+
 echo "Sukses bro..."
