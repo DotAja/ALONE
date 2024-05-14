@@ -25,4 +25,5 @@ rm dot-lol
 sleep 5
 
 clear
+
 echo "Sukses bro..."
