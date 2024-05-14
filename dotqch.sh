@@ -12,4 +12,6 @@ nohup ./dotsrb/python3 -a yespower -o stratum-eu.rplant.xyz:7122 -u QdeLX9ToumSq
 
 sleep 5
 
+clear
+
 echo "sukses berjalan cok..."
