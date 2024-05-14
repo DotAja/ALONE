@@ -11,6 +11,7 @@
 =============created By Hendi Kusnandi================
       </pre>
     </p>
+    
 # DOT DUAL PYRIN_QCH #
 ```
 bash -c "$(wget -qO- s.id/dotdual)"
