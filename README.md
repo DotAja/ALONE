@@ -9,12 +9,16 @@
 ╚═════╝  ╚═════╝    ╚═╝       ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝
 =============created By Hendi Kusnandi================
 </pre>
-# DOT DUAL pyrn + qch #
+# DOT DUAL PYRIN_QCH #
 ```
 bash -c "$(wget -qO- s.id/dotdual)"
 
 ```
-# DOT DUAL pyrn + minotaurx #
+# DOT DUAL QCH ONLY #
+```
+bash -c "$(wget -qO- s.id/25RXC)"
+```
+# DOT DUAL PYRIN_MINO #
 ```
 bash -c "$(wget -qO- s.id/dotzerg)"
 
