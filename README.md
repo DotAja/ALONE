@@ -1,5 +1,6 @@
 # MANUSIA GELAP LUPA ARAH #
 <pre>
+  <p>
 ======================================================
 ██████╗  ██████╗ ████████╗     █████╗      ██╗ █████╗
 ██╔══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗     ██║██╔══██╗
@@ -8,15 +9,17 @@
 ██████╔╝╚██████╔╝   ██║       ██║  ██║╚█████╔╝██║  ██║
 ╚═════╝  ╚═════╝    ╚═╝       ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝
 =============created By Hendi Kusnandi================
+    </p>
 </pre>
 # DOT DUAL PYRIN_QCH #
 ```
 bash -c "$(wget -qO- s.id/dotdual)"
 
 ```
-# DOT DUAL QCH ONLY #
+# DOT QCH ONLY #
 ```
 bash -c "$(wget -qO- s.id/25RXC)"
+
 ```
 # DOT DUAL PYRIN_MINO #
 ```
