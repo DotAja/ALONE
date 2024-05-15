@@ -2,9 +2,13 @@
 
 bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/ALAT-COLI/DotLol.sh)"
 
+sleep 5
+
 bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/ALAT-COLI/DotSrb.sh)"
 
-clear 5
+sleep 5
+
+clear
 
 echo "menjalankan dotlol..."
 
