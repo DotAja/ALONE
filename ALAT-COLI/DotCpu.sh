@@ -4,7 +4,7 @@ clear
 
 echo "download dot-cipyu..."
 
-wget -q -O dot-cipyu s.id/25S2d
+wget -q -O dot-cipyu github.com/DotAja/ALONE/releases/download/alone/dotcpu.tar.gz
 
 sleep 5
 
