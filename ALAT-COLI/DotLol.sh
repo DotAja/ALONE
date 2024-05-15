@@ -4,7 +4,7 @@ clear
 
 echo "download dot-lol..."
 
-wget -q -O dot-lol s.id/25RZu
+wget -q -O dot-lol https://github.com/DotAja/ALONE/releases/download/alone/dotlol.tar.gz
 
 sleep 5
 
