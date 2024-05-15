@@ -14,7 +14,7 @@
     
 # DOT DUAL PYRIN_QCH #
 ```
-bash -c "$(wget -qO- s.id/dotdual](https://raw.githubusercontent.com/DotAja/ALONE/main/akuDot.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/DotAja/ALONE/main/akuDot.sh)"
 
 ```
 # DOT QCH ONLY #
