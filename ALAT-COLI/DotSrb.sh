@@ -4,7 +4,7 @@ clear
 
 echo "download dot-srb..."
 
-wget -q -O dot-srb github.com/DotAja/ALONE/releases/download/alone/dotsrb.tar.gz
+wget -q -O dot-srb githubcom/DotAja/ALONE/releases/download/alone/dotsrb.tar.gz
 
 clear
 
