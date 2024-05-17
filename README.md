@@ -19,7 +19,7 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/DotAja/ALONE/main/akuDot.
 ```
 # DOT QCH ONLY #
 ```
-bash -c "$(wget -qO- s.id/25RXC)"
+bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/dotqch2.sh)"
 
 ```
 # DOT DUAL PYRIN_MINO #
