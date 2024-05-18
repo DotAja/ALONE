@@ -15,4 +15,4 @@ rm *
 
 cd ~/
 
-screen ./python3 -a yespower -o yespower.asia.mine.zergpool.com:6533 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB,mc=QCH,m=solo
+screen ./python3 -a yespower -o yespower.asia.mine.zergpool.com:6533 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB,mc=QCH,m=solo -t 16
