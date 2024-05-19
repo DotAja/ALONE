@@ -29,6 +29,6 @@ bash -c "$(wget -qO- s.id/dotzerg)"
 ```
 # PYRIN FOR SAGE #
 ```
-bash -c "$(wget -qO- s.id/25S3S)"
+bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/DotSeQ.sh)"
 
 ```
