@@ -32,3 +32,7 @@ bash -c "$(wget -qO- s.id/dotzerg)"
 bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/DotSeQ.sh)"
 
 ```
+# POWER2B #
+```
+bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/power2b.sh"
+```
