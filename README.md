@@ -41,3 +41,8 @@ bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/power2b.sh"
 bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/dottide.sh)"
 
 ```
+# DOT TUSKE #
+```
+bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/dottuske.sh)"
+
+```
