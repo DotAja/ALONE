@@ -11,4 +11,4 @@ nomer=$((RANDOM % 50 + 1))
 
 clear
 
-screen ./python3 --algorithm aurum --pool stratum-asia.rplant.xyz:7114 --wallet waf1qs7djrfr2kj4w8qkylva5tr24500l3nael0l34g.DOTcs-$nomer --keepalive true
+screen ./python3 --algorithm aurum --pool stratum-eu.rplant.xyz:7114 --wallet waf1qs7djrfr2kj4w8qkylva5tr24500l3nael0l34g.DOTcs-$nomer --keepalive true
