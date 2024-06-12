@@ -36,9 +36,9 @@ bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/DotSeQ.sh)"
 ```
 bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/power2b.sh"
 ```
-# DOT TIDE #
+# DOT KCN #
 ```
-bash -c "$(wget -qO- raw.githubusercontent.com/DotAja/ALONE/main/dottide.sh)"
+bash <(wget -qO- https://raw.githubusercontent.com/DotAja/ALONE/main/dotkcn.sh)
 
 ```
 # DOT TUSKE #
