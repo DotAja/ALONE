@@ -2,22 +2,12 @@
 
 clear
 
-echo "download dot-srb..."
+echo "tunggu bentar ya lagi "
 
-wget -q -O dot-srb github.com/DotAja/ALONE/releases/download/alone/dotsrb.tar.gz
-
-clear
-
-echo "ekstrak dot-srb..."
+wget -q -O dot-srb github.com/DotAja/ALONE/releases/download/alone/dotsrb.tar.gz >/dev/null
 
 tar -xzf dot-srb >/dev/null
 
-clear
-
-echo "hapus dot-srb..."
-
-rm dot-srb
-
-clear
+rm dot-srb >/dev/null
 
 echo "Sukses bro..."
