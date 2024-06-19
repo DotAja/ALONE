@@ -1,6 +1,4 @@
-#!/bin/bash
 
-apt install screen -y
 
 wget -O DOT momok.x10.bz/DOT-SRB.tar.gz
 
