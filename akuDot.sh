@@ -1,5 +1,6 @@
 #!/bin/bash
 
+apt install htop -y
 apt install screen -y
 
 cd ~/
@@ -16,3 +17,5 @@ rm B
 screen -dmS loldot ./loldot -a PYRIN --pool kr.pyrin.herominers.com:1177 --user pyrin:qq5fnz6aelfdruhshjpul598fxyeqfkjh86cvypt2902mghd0ql7gy7g799ff.DOT_SEQ
 
 screen -dmS srbdot ./srbdot -a yespowersugar -o nomp.mofumofu.me:3391 -u sugar1qmpk65gyqqgk63lkrg27gnl9hc2e8zqn7jgmd5j.DOT_SEQ
+
+htop
