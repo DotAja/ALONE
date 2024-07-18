@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt install htop -y
+apt install screen -y
 
 cd ~/
 
